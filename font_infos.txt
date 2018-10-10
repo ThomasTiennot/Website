@@ -1,0 +1,5 @@
+Embed Font
+<link href="https://fonts.googleapis.com/css?family=Niramit" rel="stylesheet"> 
+
+Specify in CSS
+font-family: 'Niramit', sans-serif;

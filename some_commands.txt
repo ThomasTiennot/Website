@@ -1,3 +1,8 @@
+WEBSITE 
+
+	https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+
+
 Here are somme useful command for the development of this project:
 
 	$ python -m SimpleHTTPServer then localhost:8000 on web browser
