@@ -1,0 +1,23 @@
+p {
+  color: black;
+  width: 300px;
+  /*border: 5px dashed black;*/
+}
+
+.root_website {
+  color: green;
+  width: 300px;
+  /*border: 5px dashed black;*/
+}
+
+#id_1 {
+  color: blue;
+  width: 300px;
+  border: 1px dashed black;
+}
+
+#id_2:hover {
+  color: red;
+  width: 300px;
+  /*border: 1px dashed black;*/
+}
