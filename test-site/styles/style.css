@@ -39,8 +39,10 @@ p, li {
 
 img {
   display:block;
-  margin: 0 auto;
-  width: 300px;
+  margin: auto auto;
+  width: 386px;
+  height: 500px;
+
 }
 
 /*
