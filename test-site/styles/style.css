@@ -45,6 +45,14 @@ img {
 
 }
 
+id_1 {
+  display:block;
+  margin: auto auto;
+  width: 386px;
+  height: 500px;
+
+}
+
 /*
 .root_website {
   color: green;
